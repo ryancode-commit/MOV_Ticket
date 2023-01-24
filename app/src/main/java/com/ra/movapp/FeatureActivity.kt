@@ -18,4 +18,8 @@ class FeatureActivity : AppCompatActivity() {
     fun addNumber2(a:Int,b:Int):Int{
         return a +  b
     }
+
+    fun addNumber3(a:Int,b:Int):Int{
+        return a +  b
+    }
 }
